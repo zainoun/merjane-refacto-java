@@ -1,7 +1,6 @@
-package com.nimbleways.springboilerplate.services.implementations;
+package com.nimbleways.springboilerplate.services.notification;
 
 import java.time.LocalDate;
-
 import org.springframework.stereotype.Service;
 
 // WARN: Should not be changed during the exercise
